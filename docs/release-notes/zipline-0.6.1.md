@@ -7,7 +7,11 @@
 - **Start of support for Quantopian algorithm script-syntax, see ENH section.**
 - **conda package manager support, see BLD section.**
 
+<<<<<<< HEAD
 ## Enhancements (ENH)
+=======
+## Enchancements (ENH)
+>>>>>>> FETCH_HEAD
 
 ### Always process new orders.
 
